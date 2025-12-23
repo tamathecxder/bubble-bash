@@ -459,6 +459,12 @@
   .py-16 {
     padding-block: calc(var(--spacing) * 16);
   }
+  .py-28 {
+    padding-block: calc(var(--spacing) * 28);
+  }
+  .py-32 {
+    padding-block: calc(var(--spacing) * 32);
+  }
   .py-40 {
     padding-block: calc(var(--spacing) * 40);
   }
