@@ -252,6 +252,18 @@
   .mx-auto {
     margin-inline: auto;
   }
+  .-mt-10 {
+    margin-top: calc(var(--spacing) * -10);
+  }
+  .-mt-20 {
+    margin-top: calc(var(--spacing) * -20);
+  }
+  .-mt-28 {
+    margin-top: calc(var(--spacing) * -28);
+  }
+  .-mt-32 {
+    margin-top: calc(var(--spacing) * -32);
+  }
   .mt-2 {
     margin-top: calc(var(--spacing) * 2);
   }
